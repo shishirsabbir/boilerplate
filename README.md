@@ -30,6 +30,7 @@ This isn't just a "hello world" template. This is a developer's Swiss Army Knife
 The repository is structured as a **Polyglot Monorepo**, allowing you to run a Python microservice alongside a Node.js gateway or frontend.
 
 📂 **Root Directory**
+
 ├── 🐍 **`backend-python/`**: The core API powered by FastAPI.
 ├── 🟢 **`backend-node/`**: Express/Node.js services for real-time logic.
 ├── 💻 **`frontend-next/`**: Next.js 14+ with App Router and Tailwind.
