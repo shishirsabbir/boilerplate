@@ -31,12 +31,12 @@ The repository is structured as a **Polyglot Monorepo**, allowing you to run a P
 
 📂 **Root Directory**
 
-├── 🐍 **`backend-python/`**: The core API powered by FastAPI.
-├── 🟢 **`backend-node/`**: Express/Node.js services for real-time logic.
-├── 💻 **`frontend-next/`**: Next.js 14+ with App Router and Tailwind.
-├── 🤖 **`automation-engine/`**: Playwright, Puppeteer, and Selenium scripts.
-├── 📦 **`shared/`**: Common config files, Dockerfiles, and CI/CD pipelines.
-└── 🧪 **`tests/`**: Pytest and Jest test suites.
+├── 🐍 **`backend-python/`**: The core API powered by FastAPI. <br/>
+├── 🟢 **`backend-node/`**: Express/Node.js services for real-time logic. <br/>
+├── 💻 **`frontend-next/`**: Next.js 14+ with App Router and Tailwind. <br/>
+├── 🤖 **`automation-engine/`**: Playwright, Puppeteer, and Selenium scripts. <br/>
+├── 📦 **`shared/`**: Common config files, Dockerfiles, and CI/CD pipelines. <br/>
+└── 🧪 **`tests/`**: Pytest and Jest test suites. <br/>
 
 ---
 
