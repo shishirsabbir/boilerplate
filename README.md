@@ -105,5 +105,5 @@ Forget getting blocked. This boilerplate includes logic for:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/boilerplate.git](https://github.com/your-username/boilerplate.git)
+   git clone [https://github.com/shishirsabbir/boilerplate](https://github.com/shishirsabbir/boilerplate)
    cd boilerplate
